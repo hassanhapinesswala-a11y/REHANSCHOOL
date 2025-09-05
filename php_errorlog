@@ -1,0 +1,6 @@
+[30-Aug-2025 08:13:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/customer/www/rsoa165.millioncoders.net/public_html/REHANSCHOOL/contact_submit.php:10
+Stack trace:
+#0 /home/customer/www/rsoa165.millioncoders.net/public_html/REHANSCHOOL/contact_submit.php(10): mysqli_query(Object(mysqli), 'INSERT INTO mes...')
+#1 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/REHANSCHOOL/contact_submit.php on line 10
+ 
